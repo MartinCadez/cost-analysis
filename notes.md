@@ -128,3 +128,18 @@ kako si ti uposteval,
 si na volju, nasim ljudem na voljo, na voljo pri pogajanjih
 
 Ti glej kje imas najvecji VRC,
+
+---
+Torej to je glavno:
+operational cost = vsi stroski brez stroskov valutnih razlik, obresti na 
+dolg in investicij (non operating cost)
+
+Operating cost = Cost of goods sold + Operating expenses
+
+Operating cost = vsi stroski ki jih podjetje potrebuje za delovanje brez:
+obresti dologov, razlik v valutah, investicij
+
+Non operating cost = foreign exchange loses, interest on debt, losses on 
+selling investments/assests, loses on with financial intruments, bank load
+fees
+
