@@ -105,15 +105,31 @@ $$
 
 ## Terminology
 $$
-\Pi_{\text{Net}} - \text{Net Profit} \newline
-\Pi_{\text{Gross}} - \text{Gross Profit} \newline
-\Pi_{\text{EBIT}} - \text{Earnings Before Interest and Taxes} \newline
-\Pi_{\text{EBT}} - \text{Earnings Before Tax} \newline
-R_{\text{op}} - \text{Operating Revenue} \newline
-C_{\text{COGS}} - \text{Cost of Goods Sold} \newline
-C_{\text{OpEx}} - \text{Operating Expenses} \newline
-R_{\text{non-op}} - \text{Non-Operating Income} \newline
-C_{\text{non-op}} - \text{Non-Operating Expenses} \newline
+\Pi_{\text{Net}} - \text{Net Profit}
+$$
+$$
+\Pi_{\text{Gross}} - \text{Gross Profit}
+$$
+$$
+\Pi_{\text{EBIT}} - \text{Earnings Before Interest and Taxes}
+$$
+$$
+\Pi_{\text{EBT}} - \text{Earnings Before Tax}
+$$
+$$
+R_{\text{op}} - \text{Operating Revenue}
+$$
+$$
+C_{\text{COGS}} - \text{Cost of Goods Sold}
+$$
+$$
+C_{\text{OpEx}} - \text{Operating Expenses}
+$$
+$$
+R_{\text{non-op}} - \text{Non-Operating Income}
+$$
+$$
+C_{\text{non-op}} - \text{Non-Operating Expenses}
 $$
 
 ---
